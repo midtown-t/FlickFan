@@ -1,6 +1,6 @@
 ---
 layout: default
-title: フリック　ファン
+title: フリック　ファン!
 ---
 
 # アプリ情報
