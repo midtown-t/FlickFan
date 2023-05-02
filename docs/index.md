@@ -2,7 +2,7 @@
 - フリック ファンはフリック入力(タイピング)が練習できるアプリケーションです。
 - フリック入力は慣れると非常に速くそして気持ちよく入力できるようになります。
 
-https://apps.apple.com/app/id357011695
+[ダウンロード](https://apps.apple.com/app/id357011695)
 
 # 主な機能
 - 単語、短文の入力練習
@@ -24,5 +24,4 @@ https://apps.apple.com/app/id357011695
 問い合わせ、バグ報告などメールで受け付けています。  
 midtown.soft.dev@gmail.com
 
-# Privacy Policy
-https://github.com/midtown-t/FlickFan/blob/main/docs/PrivacyPolicy/English.md
+[Privacy Policy](https://github.com/midtown-t/FlickFan/blob/main/docs/PrivacyPolicy/English.md)
